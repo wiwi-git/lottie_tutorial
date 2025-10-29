@@ -1,3 +1,4 @@
 # lottie_tutorial
 
-1. Lottie 이미지에 대하여(https://wiwi-pe.tistory.com/285)
+1. [iOS] Lottie 이미지 사용해보자 - 1(https://wiwi-pe.tistory.com/285)
+2. [iOS] Lottie 이미지 사용해보자 - 2(https://wiwi-pe.tistory.com/286)
